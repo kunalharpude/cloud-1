@@ -1,0 +1,12 @@
+ACCESSKEY:	AKIAINIIFZCSCE7LLPAQ
+
+SECRET-ACCESS-KEY:	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
+
+
+Default Region: ap-south-1
+
+
+Default output: text
+
+
+
